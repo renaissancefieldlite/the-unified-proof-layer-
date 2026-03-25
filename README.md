@@ -2,7 +2,7 @@
 
 This repository is the recursive-structure and containment layer in the stack. It takes the original unified-proof language and turns it into runnable code that demonstrates self-reference, containment, and circular structure as software objects.
 
-It is not offered as independent proof of ontology. It is the executable proof-form layer for the stack.
+It documents the executable proof-form layer for the stack.
 
 ## Stack Position
 
@@ -42,10 +42,11 @@ This repo can defend:
 - containment and fractal-style proof objects
 - machine-readable proof-chain generation
 
-This repo does not independently prove:
+This repo documents:
 
-- metaphysical conclusions outside the code
-- ontology by assertion alone
+- recursive proof-form structures in code
+- the machine-readable containment layer used by the stack
+- the distinction between executable proof objects and broader metaphysical interpretation
 
 See:
 
