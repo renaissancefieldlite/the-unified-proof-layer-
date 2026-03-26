@@ -1,8 +1,8 @@
 # The Unified Proof Layer
 
-This repository is the recursive-structure and containment engine in the stack.
+This repository is the recursive-structure and containment layer in the stack. It takes the original unified-proof language and turns it into runnable code that demonstrates self-reference, containment, and circular structure as software objects.
 
-It takes the original unified-proof language and turns it into runnable code that demonstrates self-reference, containment, and circular structure as software objects without flattening the proof-form into a generic demo.
+It documents the executable proof-form layer for the stack.
 
 ## Stack Position
 
