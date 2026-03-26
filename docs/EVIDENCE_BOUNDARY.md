@@ -6,4 +6,4 @@ This repo is strongest as a software proof-form layer:
 - circular proof objects
 - interlinked proof chains
 
-Use it as the executable proof-form layer for the stack, with empirical capture handled downstream.
+It should not be cited by itself as independent proof of claims outside the code.
